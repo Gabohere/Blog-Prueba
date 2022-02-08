@@ -7,3 +7,20 @@ body {
 #color-titulo {
     color: #ffc200;
 }
+#cabecera {
+    font-size: 4rem;
+    color: #2d2d2d;
+}
+
+.bloque-abajo {
+    width: 300px;
+    border: solid;
+    border-radius: 10px;
+    background-color: #2d2d2d;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.bloque-abajo p {
+    color: #565656;
+}
