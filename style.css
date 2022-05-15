@@ -98,7 +98,7 @@ header img {
     width: 13px;
     height: 8px;
     margin-left: 10px;
-    background-image: url(https://souldoutt.com/wp-content/uploads/2022/02/down-arrow.svg);
+    background-image: url(https://res.cloudinary.com/souldoutt/image/upload/v1652645199/bababa%20bit/icons/down-arrow_ifixd3.svg);
 }
 
 main {
@@ -125,7 +125,7 @@ main {
     height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url(https://souldoutt.com/wp-content/uploads/2022/02/bitcoin.svg);
+    background-image: url(https://res.cloudinary.com/souldoutt/image/upload/v1652645201/bababa%20bit/img/bitcoin_xhjbip.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -219,7 +219,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url(https://souldoutt.com/wp-content/uploads/2022/02/trending-down.svg);
+    background-image: url(https://res.cloudinary.com/souldoutt/image/upload/v1652645200/bababa%20bit/icons/trending-down_ywmy48.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -230,7 +230,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url(https://souldoutt.com/wp-content/uploads/2022/02/trending-up.svg);
+    background-image: url(https://res.cloudinary.com/souldoutt/image/upload/v1652645200/bababa%20bit/icons/trending-up_zaj8gs.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -292,7 +292,7 @@ main {
     height: 25px;
     top: -10px;
     left: calc(50% - 20px);
-    background-image: url(https://souldoutt.com/wp-content/uploads/2022/02/batata.svg);
+    background-image: url(https://res.cloudinary.com/souldoutt/image/upload/v1652645199/bababa%20bit/icons/batata_jbofmj.svg);
 }
 
 .product-detail--title {
@@ -343,16 +343,16 @@ main {
 }
 
 .product-detail--card .clock {
-    background-image: url(https://souldoutt.com/wp-content/uploads/2022/02/clock.svg);
+    background-image: url(https://res.cloudinary.com/souldoutt/image/upload/v1652645199/bababa%20bit/icons/clock_wi7r6c.svg);
 }
 .product-detail--card .eye {
-    background-image: url(https://souldoutt.com/wp-content/uploads/2022/02/eye.svg);
+    background-image: url(https://res.cloudinary.com/souldoutt/image/upload/v1652645199/bababa%20bit/icons/eye_jhwdnx.svg);
 }
 .product-detail--card .dolar {
-    background-image: url(https://souldoutt.com/wp-content/uploads/2022/02/dollar-sign.svg);
+    background-image: url(https://res.cloudinary.com/souldoutt/image/upload/v1652645199/bababa%20bit/icons/dollar-sign_zxfuyo.svg);
 }
 .product-detail--card .cicle-check {
-    background-image: url(https://souldoutt.com/wp-content/uploads/2022/02/check-circle.svg);    
+    background-image: url(https://res.cloudinary.com/souldoutt/image/upload/v1652645199/bababa%20bit/icons/check-circle_xqhrv4.svg);    
 }
 
 .product--card-title {
@@ -374,7 +374,7 @@ main {
     width: 100%;
     min-width: 320px;
     height: 70vh;
-    background-image: url(https://souldoutt.com/wp-content/uploads/2022/02/bitcoinbaby2x.jpg);
+    background-image: url(https://res.cloudinary.com/souldoutt/image/upload/v1652645203/bababa%20bit/img/bitcoinbaby2x_ldqnc8.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -503,7 +503,7 @@ main {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url(https://souldoutt.com/wp-content/uploads/2022/02/orange-right-arrow.svg);
+    background-image: url(https://res.cloudinary.com/souldoutt/image/upload/v1652645200/bababa%20bit/icons/orange-right-arrow_nah2cw.svg);
     vertical-align: text-bottom;
 }
 
